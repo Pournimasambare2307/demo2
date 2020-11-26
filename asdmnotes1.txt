@@ -1,0 +1,23 @@
+AbcMail.com
+	Login
+		we will assume that username n pass is required only.
+we will start the devlopment.
+At the end there are high chances that the customer wont accept the product stating the customer needs some changes into it.
+All the resouces, time, etc factors are wasted.
+
+Can we develop any application without SDLC?
+yes we can. but there will many more problems faced by the team while releasing the applications.MAny risks factors are involved: quality, order of functions, defects, customer satisfaction, etc. to overcome this Software engg is introduced.
+
+
+
+Software Engg.
+
+What is Software?
+collection of programs which performs some tasks.
+
+While developing any application, the activities involved :
+Requirements : gather, analyse and verify
+DEsign the requirement, code , test n deliver.
+Who are involved, resources
+
+This asdm notes by nisha mam was done in last month

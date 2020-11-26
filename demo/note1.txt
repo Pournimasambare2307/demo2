@@ -1,0 +1,21 @@
+﻿
+-----------------------------------------------------------
+Steps to work with JIRA
+Create a project
+	Create version
+	Create epic
+		Create user stories(select the epic and version while creating)
+
+Create Sprints
+Add stories into the Sprint by dragging them from backlog section.
+
+Start the sprint
+
+Create Tasks
+note:	Select the sprint , epic while creating.Tasks after creation will appear in the backlog and To Do section
+
+Move the tasks from “To do” section to the other sections according to the work completed.
+Click on Complete the sprint.
+View the Graphs and Reports.
+-------------------------------------------------------------
+Assignment - SDLC - Configuration Management
